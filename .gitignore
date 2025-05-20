@@ -1,0 +1,108 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Dataset files
+datasets/raw/*/
+datasets/processed/*/
+datasets/features/*/
+*.pkl
+*.h5
+*.npz
+
+# Model checkpoints
+models/checkpoints/
+*.pth
+*.pt
+*.onnx
+*.trt
+
+# API uploads
+api/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+frontend/.next/
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+tmp/
+temp/
